@@ -1,0 +1,108 @@
+.navbar-default{
+	/*padding-top: 5px;
+	padding-bottom: 5px;*/
+	font-size: 25px;
+	transition-duration: 1s;
+	background-color: #153522;
+	font-family: 'Ubuntu', sans-serif;
+	border-color: #153522;
+}
+
+.navbar-header{
+	/* padding-top: 5px; */
+}
+
+.navbar .nav > li > a{
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar .nav > li > a:hover{
+	color: #b8a026;
+}
+
+.navbar .nav > li > a:focus{
+	color: #b8a026;
+}
+
+.navbar-default .navbar-brand {
+	color: #ffffff;
+  	font-size: 25px;
+}
+
+.navbar-default .navbar-brand:hover{
+	color: #b8a026;
+  	font-size: 25px;
+}
+
+.navbar-default .navbar-brand:focus{
+	color: #b8a026;
+  	font-size: 25px;
+}
+
+.navbar .nav > li {
+	/* padding: 5px; */
+}
+
+.navbar:hover{
+	opacity: 100 !important;
+}
+
+.main{
+	margin-top: 0;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.lol{
+	background-image: url('http://theheightsanimalhospital.com/clients/15389/images/playful-kitten-6683.jpg');
+}
+
+.lol2{
+	background-image: url('http://stylonica.com/wp-content/uploads/2014/03/cats_animals_kittens_cat_kitten_cute_desktop_1680x1050_hd-wallpaper-753974.jpeg');
+}
+
+.step{
+  position: relative;
+  height: 100vh;
+  background-color: #fff;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.step-wrap {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+  max-width: 640px;
+  z-index: 3;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  padding: 2.35765%;
+}
+
+.step-wrap h1 {
+  font-size: 4em;
+  line-height: 1.1;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:  #000000
+}
+
+.bark{
+  color: #153522;
+}
+
+.step-wrap h3 {
+  font-size: 1.5em;
+  line-height: 1.1;
+    font-weight: bold;
+  text-transform: uppercase;
+    color:  #000000
+}
